@@ -1,0 +1,63 @@
+You must answer at least 4 questions, but the remaining ones are optional. The main goal of this file is to get you thinking critically about your own work, but we will also use these self reflections at the end of the semester when we do our internal review of the course.
+
+ArrayDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: 
+
+Q: What's something you felt proud of in your code, if anything?
+
+A: I felt proud of the readability of my code.
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A:
+
+Q: What did you learn by talking to your partner about writing ArrayDeque?
+
+A:
+
+Q: What do you wish you would have known before writing ArrayDeque, if anything?
+
+A: I wish I would have read the spec more carefully and solicited my understanding of the question before trying to hop directly into writing code.
+
+Q: If you wrote ArrayDeque again, what would you do differently, if anything?
+
+A:
+
+-----
+
+LinkedListDeque:
+
+Q: Give an example of at least one idea from the staff solution that would have made your solution better (if any).
+
+A: 
+
+Q: What's something you felt proud of in your code, if anything?
+
+A:
+
+Q: What's something that was particularly inelegant in your code, if anything?
+
+A: When trying to remove pointers, I set every individual boxes' pointers to null when I could have written my code in a way that was more elegant.
+
+Q: What did you learn by talking to your partner about writing LinkedListDeque?
+
+A: I learned that my circular implementation could have been simplified by making modifications to where I declared my sentinel. 
+
+Q: What do you wish you would have known before writing LinkedListDeque, if anything?
+
+A:
+
+Q: If you wrote LinkedListDeque again, what would you do differently, if anything?
+
+A:
+
+-----
+
+Meta:
+
+Q: Did you like this design review process? Anything we should do differently next time?
+
+A: I really liked being able to compare codes and thought processes with other people during lab. Also the GSI review clarified and solidified my understand of the project overall, especially the parts I was not completely certain on.
